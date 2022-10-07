@@ -19,7 +19,7 @@ variable "aws_profile" {
 variable "aws_region" {
   description = "(Optional) AWS Region."
   type = string
-  default = "us-east-1"
+  default = "us-east-2"
 }
 
 variable "tags" {
